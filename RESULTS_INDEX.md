@@ -2,11 +2,11 @@
 
 Paths are relative to the repository root. Only the three main figures are covered; appendix tables and full experimental protocols are outside this release.
 
-| Figure | Image | Data | Script |
-| --- | --- | --- | --- |
-| Figure 1, `fig:method` | `figures/fig1_compatibility_map.png` | Conceptual schematic; no measured data | `draw_pra_compatibility_map.py` |
-| Figure 2, `fig:kcbs_summary` | `figures/fig2_kcbs.png` | `result/kcbs_minibatch_fresh_repeats.csv`, `result/kcbs_minibatch_validation_trajectories.csv`, `result/kcbs_task_means.csv`, `result/curve_source.csv` | `update_learning_visuals.py` |
-| Figure 3, `fig:chsh_summary` | `figures/fig3_chsh.png` | `result/chsh_success_events.csv`, `result/curve_source.csv` | `update_learning_visuals.py` |
+| Figure | Image | Data |
+| --- | --- | --- |
+| Figure 1, `fig:method` | `figures/fig1_compatibility_map.png` | Conceptual schematic; no measured data |
+| Figure 2, `fig:kcbs_summary` | `figures/fig2_kcbs.png` | `result/kcbs_minibatch_fresh_repeats.csv`, `result/kcbs_minibatch_validation_trajectories.csv`, `result/kcbs_task_means.csv`, `result/curve_source.csv` |
+| Figure 3, `fig:chsh_summary` | `figures/fig3_chsh.png` | `result/chsh_success_events.csv`, `result/curve_source.csv` |
 
 ## CSV fields and aggregation
 
